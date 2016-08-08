@@ -1,0 +1,30 @@
+_repo: The-Story-of-the-Herschels-a-Family-of-Astronomers--13-Sir-William-Herschel-Sir-John-Herschel__12340
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/browse/authors/u#a49
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12340'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Herschel, Caroline Lucretia, 1750-1848'
+- !lcsh 'Herschel, John F. W. (John Frederick William), Sir, 1792-1871'
+- !lcsh 'Herschel, William, Sir, 1738-1822'
+- !lcsh 'Astronomers -- England -- Biography -- Juvenile literature'
+- !lcc 'QB'
+- GITenberg
+title: "The Story of the Herschels, a Family of Astronomers\r\nSir William Herschel,\
+  \ Sir John Herschel, Caroline Herschel"
+url: http://www.gutenberg.org/ebooks/12340
